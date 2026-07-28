@@ -1,5 +1,5 @@
 /* ==========================================================================
-   H5P Suite - Documentação de Plugin (JS Functionality)
+   H5P Companion - Documentação de Plugin (JS Functionality)
    Theme Toggle & Interactivity
    ========================================================================== */
 
